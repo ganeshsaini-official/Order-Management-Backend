@@ -26,5 +26,5 @@ A backend system for managing customers, products, and orders built with Node.js
 
 1. **Clone the repository**
 
-git clone https://github.com/yourusername/order-management-system.git
+git clone https://github.com/ganeshsaini-official/Order-Management-Backend.git
 cd order-management-system
